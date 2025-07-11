@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center"> ⛨Olá, meu nome é Caio e bem-vindo(a) ao meu perfil⛨ </h1>
 
-<!--
-**Caio-Fernandes-Araujo/Caio-Fernandes-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧙‍♂️Sobre mim:
+<p align="center">
+  testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestev 
+  <br>
+</p>
 
-Here are some ideas to get you started:
+  ## 📜Tecnologias de desenvolvimento:
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## ✉︎Contato:
+   <p align="center">
+    <a href="linkedin aqui">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+    </a>
+  </p>
+
+  ## 💎Github stats:
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Fernandes-Araujo&layout=compact&theme=tokyonight" alt="Top Langs">
+    <br>    
+  </p>
+
+ 
+
+ 
+  
+
+  
+ 
+  
